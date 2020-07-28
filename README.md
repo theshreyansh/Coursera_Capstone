@@ -1,2 +1,3 @@
-# Coursera_Capstone
-Coursera_Capstone
+# Coursera Capstone
+Hello Friends,
+This repo. will be used for coursera capstone project.
